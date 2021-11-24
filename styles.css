@@ -1,4 +1,10 @@
 #profile {
   width: 300px;
   border-radius: 200px;
+  float: left;
+  margin: 20px;
+}
+
+#bio {
+  clear: left;
 }
